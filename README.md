@@ -6,14 +6,6 @@ This application is an AI-powered tool that analyzes legal documents to extract 
 
 ---
 
-## 📸 Application Screenshot
-
-*(**Note:** After running the app, take a screenshot of it working and replace this text and the line below with the image. This is a very important part of your README!)*
-
-`![Application Screenshot](path/to/your/screenshot.png)`
-
----
-
 ## ✨ Key Features
 
 * **Key Information Extraction:** Automatically identifies and extracts crucial details from the contract, such as:
